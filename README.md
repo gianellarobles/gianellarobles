@@ -1,6 +1,8 @@
 <!-- Cute header image -->
 <p align="center">
-  <img src="" width="200"/>
+<img width="380" height="305" alt="1ed2f24a0444ee7a3f59f6aaa5f9d092" src="https://github.com/user-attachments/assets/00d2ebcb-df49-4c42-b554-d72f86a9d02b" />
+
+
 </p>
 
 # 👋 Hi, I'm Gianella
@@ -66,5 +68,5 @@ I enjoy:
 ---
 
 <p align="center">
-  <img src="" width="150"/>
+  <img width="400" height="350" alt="giphy" src="https://github.com/user-attachments/assets/19974eda-fac6-4b86-8f38-30f059506e34" />
 </p>

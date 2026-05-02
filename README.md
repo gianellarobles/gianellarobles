@@ -23,10 +23,11 @@ I enjoy:
 ---
 
 ## 👩🏻‍💻 Tech Stack
-**Languages:** Python, SQL, R  
-**Tools:** Power BI, Excel, Google Ads, Jupyter, Visual Studio
-**Skills:** EDA, Data Visualization, KPI Analysis, Machine Learning  
 
+- **Languages:** Python, SQL, R  
+- **Tools:** Power BI, Excel, Google Ads, Jupyter, Visual Studio  
+- **Skills:** EDA, Data Visualization, KPI Analysis, Machine Learning
+  
 ---
 
 ## 📚 Experience Snapshot
